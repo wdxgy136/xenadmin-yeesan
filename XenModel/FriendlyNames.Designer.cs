@@ -2867,8 +2867,8 @@ namespace XenAdmin {
                 return ResourceManager.GetString("Label-SR.SRTypes-udev", resourceCulture);
             }
         }
-
-		/// <summary>
+        
+        /// <summary>
         ///   Looks up a localized string similar to yeesan.
         /// </summary>
         public static string Label_SR_SRTypes_yeesan {
