@@ -267,7 +267,7 @@ namespace XenAPI
                     || type == SRTypes.cslg
                     || type == SRTypes.smb
                     || type == SRTypes.lvmofcoe
-					|| type == SRTypes.yeesan;
+                    || type == SRTypes.yeesan;
             }
         }
 
